@@ -1,5 +1,15 @@
 # project3
 
+### Vue root directory
+```
+/home/cnweke/Vue-Weather-and-Time-app
+```
+
+### Vue URL
+```
+192.168.59.155:8080
+```
+
 ## Project setup
 ```
 npm install
@@ -23,12 +33,4 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-### Vue root directory
-```
-/home/cnweke/Vue-Weather-and-Time-app
-```
 
-### Vue URL
-```
-192.168.59.155:8080
-```
