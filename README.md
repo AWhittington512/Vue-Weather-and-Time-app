@@ -1,36 +1,20 @@
 # project3
 
-### Vue root directory
+Note: For Vue poriton of the project, see branch "master"
+
+### Django root directory
 ```
-/home/cnweke/Vue-Weather-and-Time-app
+A3Group48Django
 ```
 
-### Vue URL
+### SQL Links
 ```
-192.168.59.155:8080
+Link to original SQL: https://github.com/AWhittington512/cps847-A3-Group48-Repo/blob/django/OriginalORMSQL.txt
+
+Link to migration SQL: [Link goes here]
 ```
 
-## Project setup
+### Django URL
 ```
-npm install
+[URL goes here]
 ```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-
-
