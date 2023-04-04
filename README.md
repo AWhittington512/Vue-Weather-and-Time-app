@@ -1,5 +1,7 @@
 # project3
 
+Note: For Django poriton of the project, see branch "django"
+
 ### Vue root directory
 ```
 /home/cnweke/Vue-Weather-and-Time-app
